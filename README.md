@@ -5,39 +5,6 @@ Capital Asset Pricing Model
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
-@font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:8.0pt;
-	margin-left:0in;
-	line-height:107%;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;}
-a:link, span.MsoHyperlink
-	{color:#0563C1;
-	text-decoration:underline;}
-.MsoChpDefault
-	{font-family:"Calibri",sans-serif;}
-.MsoPapDefault
-	{margin-bottom:8.0pt;
-	line-height:107%;}
-@page WordSection1
-	{size:595.3pt 841.9pt;
-	margin:1.0in 1.0in 1.0in 1.0in;}
-div.WordSection1
-	{page:WordSection1;}
--->
-</style>
 
 </head>
 
@@ -94,23 +61,7 @@ src="CAPM_files/image008.jpg"></p>
 0.0002485735972727812, 'BRK-B': 7.601288136505303e-05, 'V':
 3.003164321841307e-05}</p>
 
-<p class=MsoNormal><span style='font-size:10.0pt;line-height:107%;font-family:
-"Arial",sans-serif;color:#222222;background:white'>Kelliher, C., 2022.&nbsp;</span><i
-style='font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-0px'>Quantitative Finance with Python: A Practical Guide to Investment
-Management, Trading, and Financial Engineering</i><span style='font-variant-ligatures: normal;
-font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-float:none;word-spacing:0px'>. CRC Press.</span></span></p>
 
-<p class=MsoNormal><a
-href="https://webcache.googleusercontent.com/search?q=cache:2xJnoB4XZEwJ:https://medium.com/mlearning-ai/the-capital-asset-pricing-model-capm-financial-analysis-in-python-1a7a4f2c7650&amp;cd=3&amp;hl=en&amp;ct=clnk&amp;gl=lu">https://webcache.googleusercontent.com/search?q=cache:2xJnoB4XZEwJ:https://medium.com/mlearning-ai/the-capital-asset-pricing-model-capm-financial-analysis-in-python-1a7a4f2c7650&amp;cd=3&amp;hl=en&amp;ct=clnk&amp;gl=lu</a></p>
-
-<p class=MsoNormal>https://www.mlq.ai/capital-asset-pricing-model-python/</p>
-
-<p class=MsoNormal>&nbsp;</p>
 
 </div>
 
