@@ -52,8 +52,8 @@ Portfolio Theory  adding a risk-free asset and tangency portfolio. It implies
 that all investors should hold the market portfolio and use the risk-free asset
 to get their desired risk-return balance.</p>
 
-<p class=MsoNormal></p>
-$$V(\tau)=E\{[log(t+\tau)-log(t)]^2\}\sim \tau^{2H}$$
+<p class=MsoNormal>$$V(\tau)=E\{[log(t+\tau)-log(t)]^2\}\sim \tau^{2H}$$</p>
+
 <p class=MsoNormal>Python Implementation</p>
 
 <p class=MsoNormal>Let’s download price history for some stocks first:</p>
