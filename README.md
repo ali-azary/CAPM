@@ -52,8 +52,7 @@ Portfolio Theory  adding a risk-free asset and tangency portfolio. It implies
 that all investors should hold the market portfolio and use the risk-free asset
 to get their desired risk-return balance.</p>
 
-<p class=MsoNormal><span style='position:relative;top:7.0pt'><img width=171
-height=25 src="CAPM_files/image001.png"></span></p>
+<p class=MsoNormal></p>
 
 <p class=MsoNormal>Python Implementation</p>
 
