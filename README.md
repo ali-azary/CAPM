@@ -12,7 +12,7 @@ Capital Asset Pricing Model
 
 <div class=WordSection1>
 
-<p class=MsoNormal>Capital Asset Pricing Model</p>
+
 
 <p class=MsoNormal>The Capital Asset Pricing Model (CAPM) is an extension of Modern
 Portfolio Theory  adding a risk-free asset and tangency portfolio. It implies
